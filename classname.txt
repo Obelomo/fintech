@@ -15,9 +15,15 @@ James
 Mary
 Kike
 Shawn
+<<<<<<< HEAD
 
 #added new names 
 
 Judith Adewoye
 Bukola Ajayi
 Prof Toyin
+=======
+kitan
+Fasuyi
+Toyin
+>>>>>>> origin/master
